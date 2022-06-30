@@ -54,13 +54,13 @@ export default App;
 
 const style = StyleSheet.create({
   container: {
-    fex: 1,
+    flex: 1,
     backgroundColor: 'black',
     alignItems: 'center',
     justifyContent: 'center',
   },
   containerLight: {
-    fex: 1,
+    flex: 1,
     backgroundColor: 'white',
     alignItems: 'center',
     justifyContent: 'center',
